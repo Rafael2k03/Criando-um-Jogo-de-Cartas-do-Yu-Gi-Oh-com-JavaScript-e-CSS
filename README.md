@@ -16,7 +16,7 @@ Primeiro, vou estruturar o projeto de forma organizada, facilitando a compreens√
 
 bash
 
-
+![Mapa mental](mapa-mental.webp)
 
 
 1. HTML (index.html)
